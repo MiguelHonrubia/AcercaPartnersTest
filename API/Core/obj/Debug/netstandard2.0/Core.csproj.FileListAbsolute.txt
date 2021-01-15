@@ -1,0 +1,12 @@
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\bin\Debug\netstandard2.0\Data.dll
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.csproj.CopyComplete
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\almis\Desktop\Prueba\API\AcercaPartnersApi\Core\obj\Debug\netstandard2.0\Core.pdb
